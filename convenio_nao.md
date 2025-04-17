@@ -6,11 +6,11 @@ Não se preocupe! Se a escola/instituição ainda não tem convênio com a UFT, 
 
 1.  **Converse com a Escola/Instituição**
     *   Apresente-se na escola e converse com o(a) Diretor(a) ou Coordenador(a) Pedagógico(a). Explique que você é aluno da UFT e precisa realizar o estágio supervisionado.
-    *   Informe que, para isso, a instituição precisa firmar um Convênio de Estágio com a UFT (caso ainda não tenha). Você pode utilizar a [Carta de Apresentação](assets/pdf/Carta_Apresentacao.pdf) *(link para o PDF)* fornecida pelo seu professor.
+    *   Informe que, para isso, a instituição precisa firmar um Convênio de Estágio com a UFT (caso ainda não tenha). Você pode utilizar a [Carta de Apresentação](assets/pdf/Carta_Apresentacao.pdf)  fornecida pelo seu professor.
     > **Importante:** Muitas escolas públicas (municipais/estaduais) não firmam convênios diretamente, mas sim através da Secretaria de Educação correspondente. Verifique isso com a direção da escola.
 
 2.  **Identificar e Coletar Documentos**
-    *   A escola (ou a Secretaria de Educação) precisará fornecer alguns documentos para a UFT formalizar o convênio. [Consulte a lista completa de documentos aqui](assets/pdf/Convenio_Documentos.pdf) *(link para o PDF)*.
+    *   A escola (ou a Secretaria de Educação) precisará fornecer alguns documentos para a UFT formalizar o convênio. [Consulte a lista completa de documentos aqui](assets/pdf/Convenio_Documentos.pdf)
     *   **Resumo para Instituições PRIVADAS:**
         *   Contrato/Estatuto Social
         *   CNPJ
@@ -27,7 +27,7 @@ Não se preocupe! Se a escola/instituição ainda não tem convênio com a UFT, 
 3.  **Enviar Documentação para UFT**
     *   Após reunir TODOS os documentos listados, eles devem ser enviados digitalmente para o Setor de Convênios da UFT.
     > **Contato UFT - Setor de Convênios:** <br>
-    > **E-mail:** `convenios@uft.edu.br` <br>
+    > **E-mail:** `convenios@uft.edu.br ou estagios@uft.edu.br (é mais rápido)` <br>
     > **Telefone (WhatsApp):** `(63) 3229-4053`
 
 4.  **Aguardar Formalização do Convênio**
