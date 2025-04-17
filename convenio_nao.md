@@ -16,12 +16,12 @@ Não se preocupe! Se a escola/instituição ainda não tem convênio com a UFT, 
         *   CNPJ
         *   RG/CPF do Representante Legal (+Procuração se houver)
         *   Certidões de regularidade (Federal, Estadual, Municipal, Trabalhista, FGTS)
-        *   Termo de Convênio UFT (preenchido/assinado digitalmente)
+        *   [Termo de Convênio UFT](assets/pdf/ESI-termo-de-convênio.pdf) - (preenchido/assinado digitalmente)
     *   **Resumo para Instituições PÚBLICAS:**
         *   Ato de criação/Estatuto
         *   CNPJ
         *   RG/CPF do Representante Legal (+Procuração/Delegação se houver)
-        *   Termo de Convênio UFT (preenchido/assinado digitalmente)
+        *   [Termo de Convênio UFT](assets/pdf/ESI-termo-de-convênio.pdf) - (preenchido/assinado digitalmente)
     > **Dica:** O modelo do Termo de Convênio pode ser solicitado à Central de Estágios da UFT. Você (aluno) e seu Tutor de Polo podem auxiliar a escola a obter e organizar essa documentação.
 
 3.  **Enviar Documentação para UFT**
