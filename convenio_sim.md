@@ -29,7 +29,7 @@ Siga atentamente os passos abaixo, baseados nas orientações oficiais:
         *   Período do Estágio (datas de início e término)
         *   Carga Horária (total e semanal - ex: 90h total, 20h semanais)
         *   Horário das Atividades
-    *   *(Opcional: ![Formulário SAGE](assets/images/sage_form_preenchimento.png))*
+      
     > **Dica:** As atividades e carga horária específicas para o Estágio Supervisionado I (Computação) são: Pesquisa PPP (20h), Observação (mín. 8 aulas/10h), Planos de Aula (mín. 5 planos/10h), Projeto de Intervenção Pedagógica (PIP - 25h), Relatório Final (25h). Total: 90h. Detalhe isso no Plano de Atividades.
 
 6.  **Preencher o Plano de Atividades**
@@ -41,7 +41,6 @@ Siga atentamente os passos abaixo, baseados nas orientações oficiais:
 
 8.  **Assinar o Termo Digitalmente**
     *   Leia atentamente o Termo gerado. Se tudo estiver correto, marque a opção "Li e quero assinar o documento" e confirme sua assinatura digital.
-    *   *(Opcional: ![Assinatura Aluno SAGE](assets/images/sage_assinatura_aluno.png))*
     > **Importante:** Se algo estiver incorreto, NÃO assine. Clique em "Revogar Termo de Compromisso", corrija as informações (Passo 5 e 6) e gere novamente.
 
 9.  **Aguardar Demais Assinaturas**
